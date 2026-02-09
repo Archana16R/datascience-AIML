@@ -1,0 +1,3 @@
+Name: Acchu | Daily Goal: learn file handling
+Name: kruthi | Daily Goal: practice python
+Name: keerthi | Daily Goal: study ML basics
